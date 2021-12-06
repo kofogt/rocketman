@@ -1,0 +1,66 @@
+body {
+  font-family: Roboto;
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  display: inline-flex;
+  width: 100%;
+  text-align: right;
+  padding: 10px;
+}
+.logo {
+  float: left;
+  width: 250px;
+}
+.leftmenu {
+  display: inline-flex;
+}
+.nav-menu {
+  padding-left: 130px;
+  padding-top: 20px;
+  text-transform: capitalize;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+.nav-menu:hover {
+  text-transform: uppercase;
+}
+article {
+  background-image: url(/img/spacex-OHOU-5UVIYQ-unsplash.2e16d0ba.fill-1600x800.jpg);
+  background-size: cover;
+  height: 650px;
+  background-repeat: no-repeat;
+}
+.hone {
+  font-size: 60px;
+  font-family: Roboto;
+}
+.htwo {
+  font-size: 30px;
+  font-family: serif;
+}
+.heading-text {
+  background-color: rgba(0, 0, 0, 0.643);
+  height: 500px;
+  color: whitesmoke;
+  font-family: Roboto;
+  padding-top: 150px;
+  padding-left: 20px;
+}
+.btn {
+  margin-top: 20px;
+  border: white;
+  background-color: white;
+  color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: black;
+  color: aliceblue;
+}
